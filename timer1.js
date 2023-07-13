@@ -13,4 +13,4 @@ for (const arg of args) {
     process.stdout.write('\x07');
   }, delay);
   delay += (secBeep * 1000);
-}
+};
